@@ -1,0 +1,20 @@
+body{
+   background-color: blueviolet;
+}
+
+h1{
+   text-align: center;
+}
+
+ul{
+   
+   text-align: center;
+   background-color: white;
+   list-style: none;
+}
+
+li{
+   display: inline-block;
+   text-align: center;
+   width: 200px;
+}
